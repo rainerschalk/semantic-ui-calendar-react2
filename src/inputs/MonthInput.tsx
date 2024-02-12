@@ -97,7 +97,7 @@ class MonthInput extends BaseInput<MonthInputProps, BaseInputState> {
         isTriggerInFocus={this.isTriggerInFocus}
         onCalendarViewMount={this.onCalendarViewMount}
         closePopup={this.closePopup}
-        hasHeader={false}
+        hasHeader={true}
         onChange={this.handleSelect}
         initializeWith={buildValue(value, initialDate, localization, dateFormat)}
         value={buildValue(value, null, localization, dateFormat, null)}
