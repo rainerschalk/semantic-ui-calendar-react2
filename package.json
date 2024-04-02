@@ -1,5 +1,5 @@
 {
-  "name": "@rainerschalk/semantic-ui-calendar-react",
+  "name": "@rainerschalk/semantic-ui-calendar-react-ras",
   "sideEffects": false,
   "version": "0.0.1",
   "description": "date/time picker built from semantic-ui elements",
