@@ -4,7 +4,7 @@
 name: Node.js publish to NPM registry
 
 on:
-  push:
+#  push:
   release:
     types: [created]
 
